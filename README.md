@@ -1,1 +1,1 @@
-# qlab_summerschool
+# QLAB
